@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumawat</h1>
-<h3 align="center">A passionate Data Science and ML developer from India.</h3>
+<h3 align="center">A passionate Software and ML developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumawat1499&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumawat1499" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, DSA, Competitive Coding**
+- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, Machine learning and Competitive Coding**
 
 - 📫 How to reach me **nikhilkumawat1499@gmail.com**
 
